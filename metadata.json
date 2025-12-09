@@ -1,0 +1,5 @@
+{
+  "name": "Lumina - Browser Native Video Editor",
+  "description": "A professional-grade, browser-based video editor powered by FFmpeg.WASM and React. Features a multi-track timeline, real-time preview, and client-side rendering.",
+  "requestFramePermissions": []
+}
